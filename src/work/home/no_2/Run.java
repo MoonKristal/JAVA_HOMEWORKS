@@ -1,4 +1,4 @@
-package com.home.no_2;
+package work.home.no_2;
 
 
 public class Run {

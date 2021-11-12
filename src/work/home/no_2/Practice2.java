@@ -1,4 +1,4 @@
-package com.home.no_2;
+package work.home.no_2;
 
 import java.util.Scanner;
 
