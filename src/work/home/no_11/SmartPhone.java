@@ -20,9 +20,6 @@ public abstract class SmartPhone implements CellPhone, TouchDisplay {
 	
 	public abstract String printlnformation();
 
-
-
-
 	
 
 }

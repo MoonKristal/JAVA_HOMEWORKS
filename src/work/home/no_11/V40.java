@@ -1,7 +1,6 @@
 package work.home.no_11;
 
 public class V40 extends SmartPhone implements NotePen {
-
 	
 	public V40() {
 		super.setMaker("LG");

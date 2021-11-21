@@ -6,4 +6,5 @@ public interface NotePen {
 	
 	boolean bluetoothPen();
 	
+	
 }

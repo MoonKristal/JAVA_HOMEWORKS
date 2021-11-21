@@ -5,7 +5,6 @@ public class GalaxyNote9 extends SmartPhone implements NotePen{
 	public GalaxyNote9() {
 		super.setMaker("삼성");
 	}
-	
 
 	public String makeCall() {
 		return "번호를 누르고 통화버튼을 누름";

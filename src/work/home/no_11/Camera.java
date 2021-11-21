@@ -4,5 +4,4 @@ public interface Camera {
 
 	String picture();
 	
-	
 }

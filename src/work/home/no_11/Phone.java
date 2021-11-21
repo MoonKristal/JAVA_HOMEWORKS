@@ -7,4 +7,5 @@ public interface Phone {
 	public abstract String makeCall();
 	/*public abstract*/ String takeCall();
 	
+	
 }
